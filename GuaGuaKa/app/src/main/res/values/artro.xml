@@ -11,4 +11,8 @@
         <attr name="startAngle" format="integer" />
         <attr name="sweepAngle" format="integer" />
     </declare-styleable>
+    <declare-styleable name="RectangularView">
+       <attr name="count" format="integer"/>
+
+    </declare-styleable>
 </resources>
