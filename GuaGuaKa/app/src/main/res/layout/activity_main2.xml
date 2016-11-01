@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.guaguaka.Main2Activity">
+    <com.example.guaguaka.CircleView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:arcColor="#00ff00"
+        app:circleColor="#ff0000"
+        app:startAngle="35"
+        app:sweepAngle="400"
+        app:text="不知礼，无以立也"
+        app:textColor="#00f0ff"
+        app:textSize="20sp"/>
+
+
+
+
+</RelativeLayout>

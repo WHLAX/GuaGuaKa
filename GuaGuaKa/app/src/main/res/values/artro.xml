@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="urn:oasis:names:tc:xliff:document:1.2">
+    <declare-styleable name="circleView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+        <attr name="textSize" format="dimension" />
+        <attr name="text" format="string" />
+        <attr name="circleColor" format="color" />
+        <attr name="arcColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="startAngle" format="integer" />
+        <attr name="sweepAngle" format="integer" />
+    </declare-styleable>
+</resources>
